@@ -737,7 +737,7 @@
                 <!-- AdSense Ad Unit -->
                 <ins class="adsbygoogle"
                      style="display:block"
-                     data-ad-client="ca-app-pub-9529109133395287/4661214987"
+                     data-ad-client="ca-app-pub-9529109133395287"
                      data-ad-slot="4661214987"
                      data-ad-format="auto"
                      data-full-width-responsive="true"></ins>
@@ -788,7 +788,7 @@
                 <!-- AdSense Ad Unit -->
                 <ins class="adsbygoogle"
                      style="display:block"
-                     data-ad-client="ca-app-pub-9529109133395287/4661214987"
+                     data-ad-client="9529109133395287"
                      data-ad-slot="4661214987"
                      data-ad-format="auto"
                      data-full-width-responsive="true"></ins>
