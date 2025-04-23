@@ -12,7 +12,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_PUBLISHER_ID" crossorigin="anonymous"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-9529109133395287~9241193054" crossorigin="anonymous"></script>
     <style>
         :root {
             --primary: #4361ee;
@@ -738,7 +738,7 @@
                 <ins class="adsbygoogle"
                      style="display:block"
                      data-ad-client="ca-app-pub-9529109133395287"
-                     data-ad-slot="4661214987"
+                     data-ad-slot="9241193054"
                      data-ad-format="auto"
                      data-full-width-responsive="true"></ins>
                 <script>
@@ -789,7 +789,7 @@
                 <ins class="adsbygoogle"
                      style="display:block"
                      data-ad-client="9529109133395287"
-                     data-ad-slot="4661214987"
+                     data-ad-slot="9241193054"
                      data-ad-format="auto"
                      data-full-width-responsive="true"></ins>
                 <script>
